@@ -2,6 +2,7 @@
 
 ## Education
 BSc in Business Information Technology
+Diploma in Business Management 
 
 ## Skills 
 - Git & GitHub
@@ -14,5 +15,10 @@ BSc in Business Information Technology
 - Data Analyst
 - IT Support
 - Content Management
-- Repositories 
+- Repositories
+- Research 
+
+## Trainings
+- EMR User Support
+- Research and Reporting 
   
